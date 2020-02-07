@@ -26,9 +26,9 @@ html, body {
 }
 
 h1 {
-	font-family: 'Museo Sans', sans-serif !important;
-	font-weight: 900 !important;
-	font-size: 38px !important;
+	font-family: 'Museo Sans';
+	font-weight: 900;
+	font-size: 38px;
 	letter-spacing: 2.5px;
 	color: black;
 }
