@@ -60,7 +60,7 @@ a:visited{
 
 .topnav a {
   float: left;
-  color: #90bfff;
+  color: #f8f9f9;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -71,11 +71,11 @@ a:visited{
 
 .topnav a:hover {
   background-color: #90bfff;
-  color: #90bfff;
+  color: #f8f9f9;
 }
 
 .topnav a.active {
   background-color: #90bfff;
   border-bottom: 3px solid white;
-  color: #90bfff;
+  color: #f8f9f9;
 }
