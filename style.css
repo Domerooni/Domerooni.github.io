@@ -38,7 +38,7 @@ p{
   font-size: 13.2px;
   letter-spacing: .7px;
   color: #676767;
-  max-width: 700px;
+  max-width: 46.6%;
   font-family: 'Nunito', sans-serif;
   margin-left: 13.1%;
 }
@@ -97,17 +97,20 @@ a:visited{
 .column1 {
   float: left;
   width: 23%;
+  height: 29.6%;
   padding: .3%;
   margin-left: 12.8%; /* 200 - padding (200 is the margin left for my paragraphs) */
 }
 .column2 {
   float: left;
   width: 23%;
+  height: 29.6%;
   padding: .3%;
 }
 .column3 {
   float: left;
-  width: 23%;
+  width: 46.6%;
+  height: 60%;
   padding-bottom: .9%;
   margin-left: 13.1%;
 }
