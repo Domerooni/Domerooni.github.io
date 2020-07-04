@@ -150,11 +150,10 @@ li{
 .column4 {
   float: right;
   width: 23%;
-  height: 40%;
   margin-right: 13.1%;
   vertical-align: middle;
   display: inline;
-  margin-top:-7%;
+  margin-top:-5%;
 }
 .text {
   color: #676767;
