@@ -131,14 +131,12 @@ li{
 .column1 {
   float: left;
   width: 23%;
-  height: 59%;
   padding: .3%;
   margin-left: 12.8%; /* 200 - padding (200 is the margin left for my paragraphs) */
 }
 .column2 {
   float: left;
   width: 23%;
-  height: 59%;
   padding: .3%;
 }
 .column3 {
