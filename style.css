@@ -63,7 +63,7 @@ p{
 }
 /*horizontal line*/
 hr {
-  width: 46.6%;
+  width: 47%;
   height: 3px;
   margin-left: 13.1%;
   margin-right: auto;
@@ -147,8 +147,8 @@ li{
 .column3 {
   float: left;
   width: 46.6%;
-  padding-bottom: .9%;
-  margin-left: 13.1%;
+  padding: .3%;
+  margin-left: 12.8%;
 }
 .column4 {
   float: right;
