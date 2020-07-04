@@ -6,7 +6,7 @@
 body {
   margin: 0;
   font-family: 'Nunito', sans-serif;
-  background: #c8aca8;
+  background: white;
 }
 
 h1 {
@@ -48,9 +48,14 @@ p{
   margin-right:300px; */
   /* font-family:  Arial, Helvetica, sans-serif; */
   font-weight: 600;
+  /*
   line-height: 27px;
   font-size: 13.2px;
   letter-spacing: .7px;
+  */
+  line-height: 180%;
+  font-size: 100%;
+  letter-spacing: .7%;
   color: #676767;
   max-width: 46.6%;
   font-family: 'Nunito', sans-serif;
@@ -156,9 +161,9 @@ li{
 .text {
   color: #676767;
   font-weight: 600;
-  line-height: 27px;
-  font-size: 13.2px;
-  letter-spacing: .7px;
+  line-height: 180%;
+  font-size: 100%;
+  letter-spacing: .7%;
   float: left;
   width: 46.6%;
   height: 23%;
@@ -186,8 +191,8 @@ li{
   transition-property: transform; 
 }
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
-  -webkit-transform: scale(1.05);
-  transform: scale(1.05); 
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2); 
 }
 .hvr-grow2 {
   display: inline-block;
@@ -202,8 +207,8 @@ li{
 }
 
 .hvr-grow2:hover, .hvr-grow2:focus, .hvr-grow2:active {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2); 
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5); 
 }
 #three {
   -webkit-animation-delay: .30s;
