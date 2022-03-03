@@ -1,3 +1,3 @@
 ### Domerooni.github.io
 
-## Senior at Texas A&M University
+## TAMU 21 Grad, living in the Windy City!
